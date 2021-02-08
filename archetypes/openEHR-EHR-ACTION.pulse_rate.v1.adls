@@ -1,0 +1,49 @@
+archetype (adl_version=2.0.4; rm_release=1.0.2)
+    openEHR-EHR-ACTION.pulse_rate.v1.0.0
+
+language
+    original_language = <[ISO_639-1::en]>
+    
+description
+    copyright = <"">
+    details = <
+        ["en"] = <
+            language = <[ISO_639-1::en]>
+            purpose = <"">
+        >
+    >
+    lifecycle_state = <"unmanaged">
+    original_author = <
+        ["organisation"] = <"Ocean Informatics">
+    >
+    other_contributors = <"Poonam Pratiksha">
+
+definition
+    ACTION[id1] matches {    -- pulse rate
+        description
+    }
+
+terminology
+    term_definitions = <
+        ["en"] = <
+            ["id1"] = <
+                text = <"pulse rate">
+                description = <"pulse rate">
+            >
+        >
+    >
+
+
+annotations
+    items = <
+        ["en"] = <
+            items = <
+                [""] = <
+                    items = <
+                        ["organisation"] = <"Ocean Informatics">
+                    >
+                >
+            >
+        >
+    >
+
