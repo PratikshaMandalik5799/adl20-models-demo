@@ -1,0 +1,9 @@
+{
+  "templates" : [ {
+    "id" : "openEHR-EHR-COMPOSITION.predapp.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.predapp.v1.adlt",
+    "sha" : "6daf263d0d6e92fc86e60d9215db4a898f332e8a"
+  } ]
+}
