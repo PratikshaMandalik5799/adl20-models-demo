@@ -230,5 +230,12 @@
     "path" : "archetypes/openEHR-EHR-SECTION.medication.v1.adls",
     "sha" : "d379bcf36aa1293b122d305a3daa87b3647ada0f",
     "languages" : [ "en" ]
+  }, {
+    "id" : "openEHR-EHR-ACTION.pulse_rate.v1.0.0",
+    "rmType" : "ACTION",
+    "name" : "pulse rate",
+    "path" : "archetypes/openEHR-EHR-ACTION.pulse_rate.v1.adls",
+    "sha" : "f1875bd579446cff8a62badf825a049750e9fa34",
+    "languages" : [ "en" ]
   } ]
 }
