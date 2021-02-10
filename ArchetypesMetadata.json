@@ -237,5 +237,12 @@
     "path" : "archetypes/openEHR-EHR-ACTION.pulse_rate.v1.adls",
     "sha" : "f1875bd579446cff8a62badf825a049750e9fa34",
     "languages" : [ "en" ]
+  }, {
+    "id" : "openEHR-EHR-ACTION.healthcare.v1.0.0",
+    "rmType" : "ACTION",
+    "name" : "healthcare",
+    "path" : "archetypes/openEHR-EHR-ACTION.healthcare.v1.adls",
+    "sha" : "265d6b45168dee00ddee378d50da2cf92c12afa3",
+    "languages" : [ "en" ]
   } ]
 }
