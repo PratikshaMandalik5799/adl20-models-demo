@@ -72,3 +72,18 @@ terminology
         >
     >
 
+
+annotations
+    items = <
+        ["en"] = <
+            items = <
+                ["/context[id5.1]"] = <
+                    items = <
+                        ["organisation"] = <"Ocean Informatics">
+                        ["name"] = <"Heather Leslie">
+                    >
+                >
+            >
+        >
+    >
+
