@@ -37,8 +37,9 @@ description
     original_author = <
         ["organisation"] = <"Ocean Informatics">
         ["name"] = <"Thomas Beale">
-        ["date"] = <"2005-10-10">
+        ["date"] = <"12-02-2021">
     >
+    other_contributors = <"poonam pratiksha">
 
 definition
     COMPOSITION[id1.1] matches {    -- Encounter
