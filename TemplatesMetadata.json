@@ -11,5 +11,17 @@
     "name" : "Encounter",
     "path" : "templates/openEHR-EHR-COMPOSITION.health.v1.adlt",
     "sha" : "13650af4733087b1b46d51adbafd12e5761602e2"
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.predapptest.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.predapptest.v1.adlt",
+    "sha" : "8d51a691b46c645377042be0c5855afe19b9050d"
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.predapptesting.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.predapptesting.v1.adlt",
+    "sha" : "1c1e2d4a4775ce170d1f12bf9d83f2ab2c434b10"
   } ]
 }
