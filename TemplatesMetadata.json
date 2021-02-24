@@ -23,5 +23,11 @@
     "name" : "Encounter",
     "path" : "templates/openEHR-EHR-COMPOSITION.predapptesting.v1.adlt",
     "sha" : "1c1e2d4a4775ce170d1f12bf9d83f2ab2c434b10"
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.blood_pressure.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.blood_pressure.v1.adlt",
+    "sha" : "011f8573e87ba17c9c878204b4c6b8d8d518afc6"
   } ]
 }
